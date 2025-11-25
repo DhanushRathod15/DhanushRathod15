@@ -1,49 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Dhanush Rathod
 
-Hello! I'm DhanushRathod15 — welcome to my GitHub profile. I'm a software developer and open-source enthusiast who explores new technologies, builds projects, and learns by doing.
+I'm a software developer and open-source enthusiast who builds web & mobile apps, explores backend systems, and automates repetitive tasks. I love learning new tools and sharing what I build.
 
 ---
 
 ### 🔭 What I'm working on
+- Building full-stack web applications and APIs.
+- Improving my understanding of systems, cloud deployment, and scalable architectures.
+- Experimenting with TypeScript + React + Node.js and learning advanced algorithms.
 
-- Building personal projects to strengthen my skills in web and mobile development.
-- Exploring backend services, RESTful APIs, and cloud deployment.
-- Improving my knowledge of algorithms and data structures.
+### 🌱 I’m currently learning
+- Advanced TypeScript patterns and testing strategies
+- Distributed systems fundamentals and cloud-native tooling
+- Performance optimization and observability
 
-### 💡 Skills & Technologies
+### 💻 Tech stack & tools
+- Languages: JavaScript, TypeScript, Python (add others you use)
+- Frontend: React, Next.js, HTML, CSS
+- Backend: Node.js, Express, REST, GraphQL (add frameworks you use)
+- DevOps & Tools: Docker, Git, GitHub Actions, PostgreSQL, VS Code
 
-- Languages: JavaScript, TypeScript, Python (add yours)
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Express
-- Tools: Git, Docker, VS Code
 
-(If any of these are incorrect or you want to add other technologies, tell me and I'll update this.)
-
-### 🚀 Projects
-
-Here are a few areas I like to work on:
-
-- Full‑stack web apps
-- APIs and microservices
-- Automation and tooling
-
-You can see my projects in the pinned repositories below (pin the repos you want to highlight on your profile).
-
----
+### 🤝 Open to collaborate on
+- Open-source projects in web/mobile tooling
+- Projects that involve APIs, automation, or developer experience
+- Small teams building user-facing apps or developer tools
 
 ### 📫 How to reach me
-
 - GitHub: https://github.com/DhanushRathod15
-- Email: (add your email)
-- LinkedIn / Twitter: (add links)
-
----
+- Email: rathoddhanush15@gmail.com.com
 
 ### ✨ Fun facts
-
-- I enjoy learning new programming languages and building small tools to automate boring tasks.
-- Always open to collaborate on interesting projects — feel free to reach out!
+- I enjoy automating boring tasks, building developer tools, and learning a new language or framework every few months.
+- I like sharing short writeups and code snippets to help others learn.
 
 ---
 
-Thanks for visiting my profile — if you want a more personalized README (photo, more projects, live badges, or a different layout), tell me what to include and I’ll update it.
+Thanks for stopping by — feel free to open an issue or drop a message if you want to collaborate!
