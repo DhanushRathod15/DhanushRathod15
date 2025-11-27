@@ -4,35 +4,33 @@ I'm a software developer and open-source enthusiast who builds web & mobile apps
 
 ---
 
-### 🔭 What I'm working on
-- Building full-stack web applications and APIs.
-- Improving my understanding of systems, cloud deployment, and scalable architectures.
-- Experimenting with TypeScript + React + Node.js and learning advanced algorithms.
+## About Me
+- 👨‍💻 I build machine learning models and AI-powered applications  
+- 🧠 Interested in ML, NLP, MLOps, and data-driven systems  
+- 🎨 I love combining creativity with technology  
+- 📫 Reach me: dhanushrathod@gmail.com  
 
-### 🌱 I’m currently learning
-- Advanced TypeScript patterns and testing strategies
-- Distributed systems fundamentals and cloud-native tooling
-- Performance optimization and observability
+---
 
-### 💻 Tech stack & tools
-- Languages: JavaScript, TypeScript, Python (add others you use)
-- Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express, REST, GraphQL (add frameworks you use)
-- DevOps & Tools: Docker, Git, GitHub Actions, PostgreSQL, VS Code
+## Skills
+**Languages:** Python, C++, SQL  
+**ML & AI:** Scikit-learn, TensorFlow, NLP, Computer Vision  
+**Tools:** Docker, MLflow, Airflow, Git, GitHub  
+**Cloud:** AWS (S3, EC2, SageMaker), Azure  
+**Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 
+---
 
-### 🤝 Open to collaborate on
-- Open-source projects in web/mobile tooling
-- Projects that involve APIs, automation, or developer experience
-- Small teams building user-facing apps or developer tools
+## Featured Work
+- Heart Stroke Prediction – ML model + AWS deployment  
+- Finance Complaint Prediction – Automated pipeline (Airflow, PySpark, S3)  
+- Customer Segmentation – Deployed with Azure CI/CD  
 
-### 📫 How to reach me
-- GitHub: https://github.com/DhanushRathod15
-- Email: rathoddhanush15@gmail.com.com
+---
 
-### ✨ Fun facts
-- I enjoy automating boring tasks, building developer tools, and learning a new language or framework every few months.
-- I like sharing short writeups and code snippets to help others learn.
+## Connect
+LinkedIn: https://linkedin.com/in/<your-link>  
+Github: https://github.com/<your-username>
 
 ---
 
